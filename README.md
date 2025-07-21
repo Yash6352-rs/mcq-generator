@@ -6,7 +6,7 @@ Designed for students, educators, and content creators, this tool simplifies the
 
 ---
 
-## Features
+## ✨ Features
 
 - Upload .pdf or .txt educational files
 - Auto-generate multiple-choice questions with correct answers
@@ -18,7 +18,7 @@ Designed for students, educators, and content creators, this tool simplifies the
 
 ---
 
-## Screenshots
+## 📸 Screenshots
 
 **1. Upload Form:**  The user-friendly interface lets you upload a .pdf or .txt file, choose subject, tone, and number of questions.
 
@@ -36,7 +36,7 @@ Designed for students, educators, and content creators, this tool simplifies the
 
 ---
 
-## Project Structure
+## 🗂️ Project Structure
 
 - app.py ( Flask app setup and routes )
 - mcqgen.py ( Handles text extraction and Gemini summarization )
@@ -47,7 +47,7 @@ Designed for students, educators, and content creators, this tool simplifies the
 
 ---
 
-## Setup Instructions
+## ⚙️ Setup Instructions
 
 ### 1. Clone the Repository
 
@@ -82,7 +82,7 @@ Then open your browser at:
 
 ---
 
-## How to Use
+## 🧠 How to Use
 
 1. Upload a .pdf or .txt file with educational content
 2. Select number of questions, subject, and desired tone
@@ -92,4 +92,5 @@ Then open your browser at:
 
 ---
 
-“Create quizzes in seconds — and spend more time learning.”
+**“Create quizzes in seconds — and spend more time learning.”**
+🧠💡📘
