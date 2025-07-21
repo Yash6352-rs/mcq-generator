@@ -1,1 +1,77 @@
-"# mcq-generator" 
+# 📘 MCQ Generator with Gemini AI
+
+**MCQ Generator** is an AI-powered web app that lets users upload educational content (PDF or TXT) and generate structured multiple-choice quizzes using Google’s Gemini API.
+
+Designed for students, educators, and content creators, this tool simplifies the process of quiz creation and helps assess understanding efficiently.
+
+---
+
+## Features
+
+- Upload .pdf or .txt educational files
+- Auto-generate multiple-choice questions with correct answers
+- Gemini AI ensures relevant and high-quality questions
+- Evaluate quiz complexity and tone with expert-level feedback
+- Download the quiz as a .csv file
+- Built using Streamlit for a fast and interactive UI
+- API key securely handled with .env configuration
+
+---
+
+## Project Structure
+
+- app.py ( Flask app setup and routes )
+- mcqgen.py ( Handles text extraction and Gemini summarization )
+- .env (API key )
+- .gitignore ( Files/folders to ignore in Git )
+- requirements.txt 
+- README.md
+
+---
+
+## Setup Instructions
+
+### 1. Clone the Repository
+
+- git clone https://github.com/your-username/mcq-generator.git
+- cd mcq-generator
+
+### 2. Create Virtual Environment (optional but recommended)
+
+This or use anaconda prompt
+- python -m venv venv
+- source venv/bin/activate
+
+Or use Anaconda:
+- conda create -n mcqgen python=3.10 -y
+- conda activate mcqgen
+
+### 3. Install Requirements
+
+pip install -r requirements.txt
+
+### 4. Setup Gemini API Key
+
+Create a .env file in the root directory:
+- GEMINI_API_KEY=your_google_gemini_api_key
+
+### 5. Running the App
+
+streamlit run app.py
+
+Then open your browser at:
+- http://localhost:8501
+
+---
+
+## How to Use
+
+1. Upload a .pdf or .txt file with educational content
+2. Select number of questions, subject, and desired tone
+3. Click “Generate MCQs”
+4. View quiz in a table and download it as CSV
+5. Check the expert-written review and complexity feedback
+
+---
+
+“Create quizzes in seconds — and spend more time learning.”
