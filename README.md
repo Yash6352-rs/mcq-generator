@@ -20,15 +20,17 @@ Designed for students, educators, and content creators, this tool simplifies the
 
 ## Screenshots
 
-1. Upload Form: The user-friendly interface lets you upload a .pdf or .txt file, choose subject, tone, and number of questions.
+**1. Upload Form:**  The user-friendly interface lets you upload a .pdf or .txt file, choose subject, tone, and number of questions.
 
 <img width="985" height="1039" alt="image" src="https://github.com/user-attachments/assets/9b25e241-8e7b-4b1c-9ddb-df1e629d8865" />
 
-2. Generated Output: The app displays multiple-choice questions along with a complexity review powered by Gemini AI.
+
+**2. Generated Output:** The app displays multiple-choice questions along with a complexity review powered by Gemini AI.
 
 <img width="985" height="1039" alt="image" src="https://github.com/user-attachments/assets/cea0ac5c-fbb9-475b-baa1-563cfe3947e0" />
 
-3. Export Feature: Instantly download the quiz as a .csv file to use in assessments, learning apps, or reports.
+
+**3. Export Feature:** Instantly download the quiz as a .csv file to use in assessments, learning apps, or reports.
    
 <img width="1359" height="728" alt="image" src="https://github.com/user-attachments/assets/e68dc92b-df33-4581-a5e6-0c793a50ee17" />
 
