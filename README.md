@@ -38,6 +38,7 @@ Designed for students, educators, and content creators, this tool simplifies the
 
 ## 🗂️ Project Structure
 
+mcq-generator\
 - app.py ( Flask app setup and routes )
 - mcqgen.py ( Handles text extraction and Gemini summarization )
 - .env (API key )
